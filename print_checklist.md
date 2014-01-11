@@ -21,6 +21,11 @@ PLA :
 
 This value can change (measure accuracy or plastic type).
 
+Clean nozzle
+------------
+
+Up the Z axe and clean the nozzle.
+
 Homing
 ------
 
