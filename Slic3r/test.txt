@@ -1,0 +1,3 @@
+Test log :
+
+- 11/01/2013 : try set retractation from 1 to 2 mm. To avoid strings on print object (*.ini is not update now, think to do it).
