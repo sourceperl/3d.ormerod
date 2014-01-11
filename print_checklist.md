@@ -31,7 +31,7 @@ Homing
 
 Use automatic homing for X and Y axe : 
 
-    G28 X50 Y50 ; homing X and Y
+    G28 X0 Y0 ; homing X and Y
     G0 X50 Y50  ; set pos for Z homing
 
 Z automatic homing is unsecure so do it manualy at pos X50 Y50 :
