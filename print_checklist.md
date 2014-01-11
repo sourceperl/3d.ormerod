@@ -26,7 +26,8 @@ Homing
 
 Use automatic homing for X and Y axe : 
 
-    G28 X50 Y50
+    G28 X50 Y50 ; homing X and Y
+    G0 X50 Y50  ; set pos for Z homing
 
 Z automatic homing is unsecure so do it manualy at pos X50 Y50 :
 Use pronterface to make small step on Z axis. Set a paper between nozzle and
