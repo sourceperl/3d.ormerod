@@ -2,3 +2,4 @@ Test log :
 
 1/ 11/01/2013 : try set retractation from 1 to 2 mm. To avoid strings on print object (*.ini is not update now, think to do it).
 2/ 11/01/2013 : try first layer height at 0.35 mm instead of 0.24 mm (my build plate is not perfect improve this with bigger layer).
+3/ include items 1 and 2 in "config.ini".
